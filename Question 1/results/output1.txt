@@ -1,0 +1,12 @@
+
+	Paired t-test
+
+data:  clean_data$Height..Inches. and clean_data$Weight..Pounds.
+t = -14.997, df = 9, p-value = 1.13e-07
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -72.84828 -53.75172
+sample estimates:
+mean difference 
+          -63.3 
+
